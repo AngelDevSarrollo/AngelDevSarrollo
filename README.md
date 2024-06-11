@@ -1,4 +1,6 @@
+### Ángel Giraldo's GitHub Profile ###
 
+```java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,7 +20,7 @@ class Dev {
     }
 
     public void printGitHubProfile() {
-        System.out.println("### Ángel Giraldo's GitHub Profile ###");
+        System.out.println("### " + name + "'s GitHub Profile ###");
         System.out.println("- Name: " + name);
         System.out.println("- Role: " + role);
         System.out.println("- IDEs: " + ide);
