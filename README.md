@@ -1,49 +1,12 @@
 ### Ángel Giraldo's GitHub Profile ###
+# ¡Hola! 👋 Soy Ángel Giraldo
 
-```java
-import java.util.ArrayList;
-import java.util.List;
+## Acerca de mí
+Soy un Desarrollador de Software Junior apasionado por la programación y la resolución de problemas. Disfruto trabajando en proyectos desafiantes y aprendiendo nuevas tecnologías.
 
-class Dev {
-    String name;
-    String role;
-    String ide;
-    List<String> languages;
-    String more;
+## Habilidades
+- Lenguajes de programación: Java, Kotlin
+- IDEs: NetBeans, IntelliJ IDEA, Android Studio
 
-    public Dev(String name, String role, String ide, List<String> languages, String more) {
-        this.name = name;
-        this.role = role;
-        this.ide = ide;
-        this.languages = languages;
-        this.more = more;
-    }
-
-    public void printGitHubProfile() {
-        System.out.println("### " + name + "'s GitHub Profile ###");
-        System.out.println("- Name: " + name);
-        System.out.println("- Role: " + role);
-        System.out.println("- IDEs: " + ide);
-        System.out.println("- Languages:");
-        for (String language : languages) {
-            System.out.println("  - " + language);
-        }
-        System.out.println("- More info: " + more);
-    }
-
-    public static void main(String[] args) {
-        List<String> languages = new ArrayList<>();
-        languages.add("Java");
-        languages.add("Kotlin");
-
-        Dev desarrollo = new Dev(
-                "Ángel Giraldo",
-                "Junior Software Developer",
-                "NetBeans, IntelliJ IDEA, Android Studio",
-                languages,
-                "https://www.linkedin.com/in/%C3%A1ngel-giraldo-programador/"
-        );
-
-        desarrollo.printGitHubProfile();
-    }
-}
+## Contacto
+- LinkedIn: [Ángel Giraldo](https://www.linkedin.com/in/%C3%A1ngel-giraldo-programador/)
