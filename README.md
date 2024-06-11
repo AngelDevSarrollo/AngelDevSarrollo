@@ -1,4 +1,4 @@
-### Ángel Giraldo's GitHub Profile ###
+
 import java.util.ArrayList;
 import java.util.List;
 
