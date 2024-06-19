@@ -13,5 +13,5 @@ Soy un Desarrollador de Software Junior apasionado por la programación y la res
 
 [![Ángel Giraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelDevSarrollo)](https://github.com/AngelDevSarrollo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDevSarrollo)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/AngelDevSarrollo/github-readme-stats)
+[![Ángel Giraldo WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngelDevSarrollo)](https://github.com/AngelDevSarrollo/github-readme-stats)
 
