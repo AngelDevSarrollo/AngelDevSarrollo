@@ -1,5 +1,3 @@
-### Ángel Giraldo GitHub Profile ###
-
 # ¡Hola! 👋 Soy Ángel Giraldo
 
 ## Acerca de mí
@@ -12,7 +10,5 @@ Soy un Desarrollador de Software Junior apasionado por la programación y la res
 ## Contacto
 - LinkedIn: [Ángel Giraldo](https://www.linkedin.com/in/%C3%A1ngel-giraldo-programador/)
 
-[![Ángel Giraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelDevSarrollo)](https://github.com/AngelDevSarrollo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDevSarrollo)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Ángel Giraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelDevSarrollo&show_icons=true&theme=radical)](https://github.com/AngelDevSarrollo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDevSarrollo&layout=compact&theme=radical)](https://github.com/AngelDevSarrollo)
